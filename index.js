@@ -265,7 +265,7 @@ async function run() {
         .create(process.env.MAIL_SENDING_DOMAIN, {
           from: "Mailgun Sandbox <postmaster@sandbox3ee1e627af1f45f992aeaaa034145a52.mailgun.org>",
           to: ["maad7445@gmail.com"],
-          subject: "Meghna Bari Order Confirmation",
+          subject: "Meghna Kitchen Order Confirmation",
           text: "Testing some Mailgun awesomness!",
           html: `
             <div>

@@ -8,5 +8,5 @@
 ### 6. mailgun.js
 ### 7. mongodb
 ### 8. stripe
-## live site link deployed in vercel of this server side
+## live site link of this server side deployed in vercel
 [https://restaurant-server-fawn.vercel.app/](https://restaurant-server-fawn.vercel.app/)
